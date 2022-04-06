@@ -2,6 +2,8 @@
 name = "dependency-tree-generator"
 version = "0.1.0"
 edition = "2021"
+description = "Generates a dependency tree for a given package"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
